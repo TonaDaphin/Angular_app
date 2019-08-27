@@ -1,0 +1,20 @@
+goals@0.0.0 /home/wecode/Documents/Projects/ang/Goals
+├── @angular-devkit/architect@0.803.0  extraneous
+├─┬ @angular-devkit/build-angular@0.12.4
+│ ├─┬ @angular-devkit/build-webpack@0.12.4
+│ │ └── @angular-devkit/core@7.2.4 
+│ ├─┬ @angular-devkit/core@7.2.4 
+│ │ └── source-map@0.7.3 
+│ ├─┬ @ngtools/webpack@7.2.4
+│ │ └─┬ @angular-devkit/core@7.2.4 
+│ │   └── source-map@0.7.3 
+│ └── UNMET PEER DEPENDENCY ajv@6.6.2
+├── @angular-devkit/core@8.3.0  extraneous
+├── @angular-devkit/schematics@8.3.0  extraneous
+└─┬ @angular/cli@7.2.4
+  ├── @angular-devkit/core@7.2.4 
+  ├─┬ @schematics/angular@7.2.4
+  │ └── @angular-devkit/core@7.2.4 
+  └─┬ @schematics/update@0.12.4
+    └── @angular-devkit/core@7.2.4 
+

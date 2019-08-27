@@ -1,0 +1,12 @@
+goals@0.0.0 /home/wecode/Documents/Projects/ang/Goals
+├── @angular-devkit/architect@0.803.0  extraneous
+├─┬ @angular-devkit/build-angular@0.12.4
+│ ├── @angular-devkit/architect@0.12.4 
+│ ├─┬ @angular-devkit/build-webpack@0.12.4
+│ │ └── @angular-devkit/architect@0.12.4 
+│ └── UNMET PEER DEPENDENCY ajv@6.6.2
+├── UNMET PEER DEPENDENCY @angular-devkit/core@>=8.0.0
+├── UNMET PEER DEPENDENCY @angular-devkit/schematics@>=8.0.0
+└─┬ @angular/cli@7.2.4
+  └── @angular-devkit/architect@0.12.4 
+
